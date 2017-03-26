@@ -1,0 +1,4 @@
+1.学习感悟
+java是一种可以撰写跨平台应用软件的面向对象的程序设计语言，是由Sun 
+Microsystems公司于1995年5月推出的Java程序设计语言和Java平台（即JavaSE, 
+JavaEE, JavaME）的总称。
