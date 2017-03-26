@@ -1,4 +1,6 @@
-1.学习感悟
-java是一种可以撰写跨平台应用软件的面向对象的程序设计语言，是由Sun 
-Microsystems公司于1995年5月推出的Java程序设计语言和Java平台（即JavaSE, 
-JavaEE, JavaME）的总称。
+1.java初次体验
+1.1了解java的运行机制？
+①首先采用通用的java编译器将java源程序编译成为与平台无关的字节码文件（class文件）
+
+②然后由java虚拟机（JVM）对字节码文件解释执行。
+
