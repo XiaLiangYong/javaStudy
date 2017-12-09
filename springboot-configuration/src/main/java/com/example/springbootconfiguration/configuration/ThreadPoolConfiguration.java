@@ -1,5 +1,6 @@
 package com.example.springbootconfiguration.configuration;
 
+import com.example.springbootconfiguration.properties.ThreadPoolConfigProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
