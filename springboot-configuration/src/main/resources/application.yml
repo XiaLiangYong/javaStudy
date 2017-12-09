@@ -3,3 +3,10 @@ my:
     - dev.bar.com
     - foo.bar.com
     - jiaobuchong.com
+spring:
+  task:
+    pool:
+      corePoolSize: 10
+      maxPoolSize: 50
+      keepAliveSeconds: 8
+      queueCapacity: 1000
