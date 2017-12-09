@@ -1,4 +1,4 @@
-package com.example.springbootconfiguration.configuration;
+package com.example.springbootconfiguration.config;
 
 import com.example.springbootconfiguration.properties.ThreadPoolConfigProperties;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,7 +12,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 @Configuration
 @EnableAsync
-public class ThreadPoolConfiguration {
+public class ThreadPoolConfig {
     @Autowired
     private ThreadPoolConfigProperties config;
 
