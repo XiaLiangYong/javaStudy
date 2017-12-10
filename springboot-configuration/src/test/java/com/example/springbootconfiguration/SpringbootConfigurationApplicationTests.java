@@ -25,7 +25,7 @@ public class SpringbootConfigurationApplicationTests {
      //   System.out.println("test="+iRedisService.get("test"));
        // iRedisService.lpush("test1",1);
         //iRedisService.lpush("test1",2);
-        System.out.println(iRedisService.lpop("test1"));
+        System.out.println(iRedisService.rpop("test1"));
 
     }
 
