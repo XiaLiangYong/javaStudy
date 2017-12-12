@@ -12,9 +12,9 @@ spring:
       queueCapacity: 1000
   redis:
     database: 0
-    host: localhost
+    host: 172.16.60.12
     port: 6379
-    password:
+    password: cwkj0987
     pool:
       max-active: 8
       max-wait: -1
